@@ -15,3 +15,4 @@ Key Skills:
 ------------------------------------------------------------
 
 Currently experimenting/learning with or about cloud-wan soutlions, mutli cloud application, fortinet firewalls, cisco networking, and others.
+
