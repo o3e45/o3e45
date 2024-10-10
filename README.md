@@ -12,5 +12,5 @@ Key Skills:
 
 • Cyber Security
 
-
+--
 Currently experimenting/learning with or about cloud-wan soutlions, mutli cloud application, fortinet firewalls, cisco networking, and others.
