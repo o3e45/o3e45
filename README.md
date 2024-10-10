@@ -11,3 +11,6 @@ Key Skills:
 • Computer Troubleshooting and error prevention
 
 • Cyber Security
+
+
+Currently experimenting/learning with or about cloud-wan soutlions, mutli cloud application, fortinet firewalls, cisco networking, and others.
