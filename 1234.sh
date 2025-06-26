@@ -1,7 +1,7 @@
 apt update && apt upgrade
 apt install sudo 
 
-apt install -y s3fs
+apt install -y s3fs-fuse
 
 
 
